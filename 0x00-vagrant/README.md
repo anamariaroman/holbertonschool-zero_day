@@ -1,0 +1,1 @@
+informacion sobre el comando uname
